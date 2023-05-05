@@ -1,12 +1,12 @@
 const expresss = require('express');
 
-app=expresss();
+ap=expresss();
 
 
-app.get('/',function (req,res) {
+ap.get('/',function (req,res) {
    res.send('Hello Express world') ;
 });
 
-app.listen(8000,function () {
+ap.listen(8000,function () {
    console.log('Server run'); 
 });
