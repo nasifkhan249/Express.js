@@ -2,10 +2,10 @@
   "name": "practiceapp1",
   "version": "1.0.0",
   "description": "",
-  "main": "firstAppExpress.js",
+  "main": "simpleStrindResponse.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node routing.js"
+    "start": "node simpleStrindResponse.js"
   },
   "keywords": [],
   "author": "",
